@@ -1,0 +1,62 @@
+.container{
+    max-width:75%;
+}
+
+.outer{
+    background-image: url(what-the-hex-dark.png);
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.inner{
+    border: 1px solid #ffffff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-image: url(what-the-hex.png);
+    
+}
+
+.align-center {
+    text-align: center;
+}
+
+h2{
+    padding: 20px 10px;
+    margin-top: 10px;
+}
+
+.disc-name{
+    margin-bottom: 2px solid #777777;
+}
+
+.top-bar{
+    background-image: url(what-the-hex.png);
+    padding-left: 15%;
+}
+
+.img-thumbnail1{
+    width: 75%;
+}
+
+.img-thumbnail{
+    width: 50%;
+}
+
+.about-img{
+    margin-left: 10%;
+    width: 75%;
+}
+
+.about{
+    width: 80%;
+    margin: 6% auto;
+}
+
+.footer{
+    position: fixed; 
+    bottom: 0; 
+    width: 100%;
+    text-align: center;
+    border-top: 10px solid  rgb(18, 142, 214);
+    z-index: 3;
+}
